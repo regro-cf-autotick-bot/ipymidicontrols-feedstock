@@ -1,6 +1,6 @@
 {% set name = "ipymidicontrols" %}
-{% set version = "0.1.2" %}
-{% set hash = "35d9004e1a28b37c6a3158a132f36311e565f71b8046d44f47a0966539f44e99" %}
+{% set version = "0.1.3" %}
+{% set hash = "797f6704160cfdb220b604120eebf2d93b506a7e516d8866dedbddf46fc73b81" %}
 
 package:
   name: {{ name|lower }}
